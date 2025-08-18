@@ -6,6 +6,7 @@ A passionate Embeded Developper </h1>
 - <b>getting started with STM32</b>
   - [GPIO-Playground](https://github.com/Yassinejabnoun/GPIO-Playground)
   - [SevenSeg-ADC-Playground](https://github.com/Yassinejabnoun/SevenSeg-ADC-Playground)
+  - [USART-MeasuringDevice-Playground](https://github.com/Yassinejabnoun/USART-MeasuringDevice-Playground)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
