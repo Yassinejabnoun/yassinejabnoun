@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yassine Jabnoun
-A passionate Embeded Developper </h1>
+A passionate Embedded and Automation Engineer </h1>
 
 <h2>👨‍💻 Embeded Projekt:</h2>
 
